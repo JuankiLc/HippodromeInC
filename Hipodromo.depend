@@ -1,0 +1,869 @@
+# depslib dependency file v1.0
+1574248078 source:z:\repositorios\hipodromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"InterfazUsuario/interfazGrafica.h"
+
+1574248078 source:z:\repositorios\hipodromo\interfazusuario\interfazusuario.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	"interfazUsuario.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazSistema/caballoSys.h"
+	"interfazGrafica.h"
+	"caballoIU.h"
+	<conio.h>
+
+1574248078 source:z:\repositorios\hipodromo\mainhipodromo.c
+	<stdio.h>
+	"InterfazUsuario/interfazUsuario.h"
+
+1574249189 source:z:\repositorios\hipodromo\interfazsistema\caballosys.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoSys.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+
+1574248078 source:z:\repositorios\hipodromo\interfazusuario\caballoiu.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<conio.h>
+	<stdbool.h>
+	"caballoIU.h"
+	"interfazUsuario.h"
+	"interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+
+1574248078 source:z:\repositorios\hipodromo\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"../Entidades/caballo.h"
+	"interfazGrafica.h"
+
+1573634087 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\interfazsistema\caballosys.c
+	<stdio.h>
+	<stdbool.h>
+	"caballoSys.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+
+1573643929 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"interfazGrafica.h"
+
+1573587017 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573587017 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\mainhipodromo.c
+	<stdio.h>
+
+1573587017 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\interfazusuario\interfazusuario.c
+	<stdio.h>
+	"interfazUsuario.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazSistema/caballoSys.h"
+	"interfazGrafica.h"
+	"caballoIU.h"
+	<conio.h>
+
+1573644787 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\accesodatos\cabalload.c
+	<stdio.h>
+	<stdbool.h>
+	"caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../InterfazUsuario/caballoIU.h"
+	"../InterfazUsuario/interfazUsuario.h"
+
+1573644803 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\interfazusuario\caballoiu.c
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+	"caballoIU.h"
+	"interfazUsuario.h"
+	"interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+
+1574248952 source:z:\repositorios\hipodromo\accesodatos\cabalload.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../InterfazUsuario/caballoIU.h"
+	"../InterfazUsuario/interfazUsuario.h"
+
+1574248078 z:\repositorios\hipodromo\interfazsistema\caballosys.h
+	<stdbool.h>
+
+1574248078 z:\repositorios\hipodromo\interfazusuario\caballoiu.h
+
+1574248078 z:\repositorios\hipodromo\interfazusuario\interfazgrafica.h
+	<windows.h>
+
+1574248383 z:\repositorios\hipodromo\interfazusuario\interfazusuario.h
+
+1574248078 z:\repositorios\hipodromo\accesodatos\cabalload.h
+	<stdbool.h>
+
+1573634115 c:\users\juanki\desktop\proyecto programacion\hipodromo\accesodatos\cabalload.h
+	<stdbool.h>
+
+1573634129 c:\users\juanki\desktop\proyecto programacion\hipodromo\interfazsistema\caballosys.h
+	<stdbool.h>
+
+1573641447 c:\users\juanki\desktop\proyecto programacion\hipodromo\interfazusuario\caballoiu.h
+
+1573587017 c:\users\juanki\desktop\proyecto programacion\hipodromo\interfazusuario\interfazusuario.h
+
+1573634242 c:\users\juanki\desktop\proyecto programacion\hipodromo\interfazusuario\interfazgrafica.h
+	<windows.h>
+
+1573995370 source:c:\users\juanki\desktop\prueba estructuras\accesodatos\cabalload.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../InterfazUsuario/caballoIU.h"
+	"../InterfazUsuario/interfazUsuario.h"
+
+1573995201 c:\users\juanki\desktop\prueba estructuras\accesodatos\cabalload.h
+	<stdbool.h>
+
+1573634242 c:\users\juanki\desktop\prueba estructuras\interfazusuario\interfazgrafica.h
+	<windows.h>
+
+1573995201 c:\users\juanki\desktop\prueba estructuras\interfazsistema\caballosys.h
+	<stdbool.h>
+
+1574017897 c:\users\juanki\desktop\prueba estructuras\interfazusuario\caballoiu.h
+
+1573587017 c:\users\juanki\desktop\prueba estructuras\interfazusuario\interfazusuario.h
+
+1573995201 source:c:\users\juanki\desktop\prueba estructuras\interfazsistema\caballosys.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoSys.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+
+1573994374 source:c:\users\juanki\desktop\prueba estructuras\interfazusuario\caballoiu.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<conio.h>
+	<stdbool.h>
+	"caballoIU.h"
+	"interfazUsuario.h"
+	"interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+
+1573994474 source:c:\users\juanki\desktop\prueba estructuras\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"../Entidades/caballo.h"
+	"interfazGrafica.h"
+
+1573994474 source:c:\users\juanki\desktop\prueba estructuras\interfazusuario\interfazusuario.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	"interfazUsuario.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazSistema/caballoSys.h"
+	"interfazGrafica.h"
+	"caballoIU.h"
+	<conio.h>
+
+1573587017 source:c:\users\juanki\desktop\prueba estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1573587017 source:c:\users\juanki\desktop\prueba estructuras\mainhipodromo.c
+	<stdio.h>
+
+1573840041 source:c:\users\juanki\desktop\prueba estructuras\entidades\caballo.c
+	<stdio.h>
+
+1573995201 c:\users\juanki\desktop\prueba estructuras\entidades\caballo.h
+	<stdio.h>
+
+1579520638 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\accesodatos\cabalload.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../InterfazUsuario/caballoIU.h"
+	"../InterfazUsuario/interfazUsuario.h"
+	"caballoBD.h"
+	<stdlib.h>
+
+1579287444 c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\entidades\caballo.h
+	<stdio.h>
+
+1579289990 c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\accesodatos\cabalload.h
+	<stdbool.h>
+
+1573634242 c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\interfazusuario\interfazgrafica.h
+	<windows.h>
+
+1579448318 c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\interfazsistema\caballosys.h
+	<stdbool.h>
+
+1579517056 c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\interfazusuario\caballoiu.h
+
+1576074007 c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\interfazusuario\interfazusuario.h
+
+1573840041 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\entidades\caballo.c
+	<stdio.h>
+
+1579449642 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\interfazsistema\caballosys.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoSys.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../AccesoDatos/caballoBD.h"
+
+1576516329 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"../Entidades/caballo.h"
+	"interfazGrafica.h"
+
+1579522968 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\interfazusuario\interfazusuario.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	"interfazUsuario.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazSistema/caballoSys.h"
+	"interfazGrafica.h"
+	"caballoIU.h"
+	"../AccesoDatos/caballoBD.h"
+	<conio.h>
+
+1574090730 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"InterfazUsuario/interfazGrafica.h"
+
+1574019592 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\mainhipodromo.c
+	<stdio.h>
+	"InterfazUsuario/interfazUsuario.h"
+
+1573840041 source:c:\users\juanki\desktop\new folder\entidades\caballo.c
+	<stdio.h>
+
+1573994474 source:c:\users\juanki\desktop\new folder\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"../Entidades/caballo.h"
+	"interfazGrafica.h"
+
+1574090762 c:\users\juanki\desktop\new folder\entidades\caballo.h
+	<stdio.h>
+
+1573634242 c:\users\juanki\desktop\new folder\interfazusuario\interfazgrafica.h
+	<windows.h>
+
+1573994474 source:c:\users\juanki\desktop\new folder\interfazusuario\interfazusuario.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	"interfazUsuario.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazSistema/caballoSys.h"
+	"interfazGrafica.h"
+	"caballoIU.h"
+	<conio.h>
+
+1573587017 c:\users\juanki\desktop\new folder\interfazusuario\interfazusuario.h
+
+1574096353 c:\users\juanki\desktop\new folder\accesodatos\cabalload.h
+	<stdbool.h>
+
+1574096353 c:\users\juanki\desktop\new folder\interfazsistema\caballosys.h
+	<stdbool.h>
+
+1574093707 c:\users\juanki\desktop\new folder\interfazusuario\caballoiu.h
+
+1574019592 source:c:\users\juanki\desktop\new folder\mainhipodromo.c
+	<stdio.h>
+	"InterfazUsuario/interfazUsuario.h"
+
+1574090730 source:c:\users\juanki\desktop\new folder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"InterfazUsuario/interfazGrafica.h"
+
+1574096353 source:c:\users\juanki\desktop\new folder\interfazsistema\caballosys.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoSys.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+
+1574096365 source:c:\users\juanki\desktop\new folder\accesodatos\cabalload.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../InterfazUsuario/caballoIU.h"
+	"../InterfazUsuario/interfazUsuario.h"
+
+1574097228 source:c:\users\juanki\desktop\new folder\interfazusuario\caballoiu.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<conio.h>
+	<stdbool.h>
+	"caballoIU.h"
+	"interfazUsuario.h"
+	"interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+
+1574096365 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\accesodatos\cabalload.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../InterfazUsuario/caballoIU.h"
+	"../InterfazUsuario/interfazUsuario.h"
+
+1574090762 c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\entidades\caballo.h
+	<stdio.h>
+
+1574096353 c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\accesodatos\cabalload.h
+	<stdbool.h>
+
+1573634242 c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\interfazusuario\interfazgrafica.h
+	<windows.h>
+
+1574096353 c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\interfazsistema\caballosys.h
+	<stdbool.h>
+
+1574093707 c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\interfazusuario\caballoiu.h
+
+1573587017 c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\interfazusuario\interfazusuario.h
+
+1573840041 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\entidades\caballo.c
+	<stdio.h>
+
+1574096353 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\interfazsistema\caballosys.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoSys.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+
+1574097228 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\interfazusuario\caballoiu.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<conio.h>
+	<stdbool.h>
+	"caballoIU.h"
+	"interfazUsuario.h"
+	"interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+
+1573994474 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"../Entidades/caballo.h"
+	"interfazGrafica.h"
+
+1573994474 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\interfazusuario\interfazusuario.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	"interfazUsuario.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazSistema/caballoSys.h"
+	"interfazGrafica.h"
+	"caballoIU.h"
+	<conio.h>
+
+1574090730 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"InterfazUsuario/interfazGrafica.h"
+
+1574019592 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\new folder\mainhipodromo.c
+	<stdio.h>
+	"InterfazUsuario/interfazUsuario.h"
+
+1574248078 z:\repositorios\hipodromo\entidades\caballo.h
+	<stdio.h>
+
+1574248078 source:z:\repositorios\hipodromo\entidades\caballo.c
+	<stdio.h>
+
+1579522794 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\interfazusuario\caballoiu.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<conio.h>
+	<stdbool.h>
+	"caballoIU.h"
+	"interfazUsuario.h"
+	"interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../AccesoDatos/caballoBD.h"
+	"../AccesoDatos/caballoAD.h"
+
+1576065241 source:z:\repositorios\hipodromo\hipodromo\accesodatos\cabalload.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../InterfazUsuario/caballoIU.h"
+	"../InterfazUsuario/interfazUsuario.h"
+
+1575456296 z:\repositorios\hipodromo\hipodromo\entidades\caballo.h
+	<stdio.h>
+
+1576065299 z:\repositorios\hipodromo\hipodromo\accesodatos\cabalload.h
+	<stdbool.h>
+
+1575455039 z:\repositorios\hipodromo\hipodromo\interfazusuario\interfazgrafica.h
+	<windows.h>
+
+1576065363 z:\repositorios\hipodromo\hipodromo\interfazsistema\caballosys.h
+	<stdbool.h>
+
+1575460714 z:\repositorios\hipodromo\hipodromo\interfazusuario\caballoiu.h
+
+1576061980 z:\repositorios\hipodromo\hipodromo\interfazusuario\interfazusuario.h
+
+1575455039 source:z:\repositorios\hipodromo\hipodromo\entidades\caballo.c
+	<stdio.h>
+
+1576065363 source:z:\repositorios\hipodromo\hipodromo\interfazsistema\caballosys.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoSys.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+
+1576066350 source:z:\repositorios\hipodromo\hipodromo\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"../Entidades/caballo.h"
+	"interfazGrafica.h"
+
+1575455039 source:z:\repositorios\hipodromo\hipodromo\interfazusuario\interfazusuario.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	"interfazUsuario.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazSistema/caballoSys.h"
+	"interfazGrafica.h"
+	"caballoIU.h"
+	<conio.h>
+
+1575455039 source:z:\repositorios\hipodromo\hipodromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"InterfazUsuario/interfazGrafica.h"
+
+1575455039 source:z:\repositorios\hipodromo\hipodromo\mainhipodromo.c
+	<stdio.h>
+	"InterfazUsuario/interfazUsuario.h"
+
+1576067167 source:z:\repositorios\hipodromo\hipodromo\interfazusuario\caballoiu.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<conio.h>
+	<stdbool.h>
+	"caballoIU.h"
+	"interfazUsuario.h"
+	"interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+
+1579520638 source:c:\users\juanki\desktop\hipodromo.real\accesodatos\cabalload.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../InterfazUsuario/caballoIU.h"
+	"../InterfazUsuario/interfazUsuario.h"
+	"caballoBD.h"
+	<stdlib.h>
+
+1579287444 c:\users\juanki\desktop\hipodromo.real\entidades\caballo.h
+	<stdio.h>
+
+1579289990 c:\users\juanki\desktop\hipodromo.real\accesodatos\cabalload.h
+	<stdbool.h>
+
+1573634242 c:\users\juanki\desktop\hipodromo.real\interfazusuario\interfazgrafica.h
+	<windows.h>
+
+1579448318 c:\users\juanki\desktop\hipodromo.real\interfazsistema\caballosys.h
+	<stdbool.h>
+
+1579517056 c:\users\juanki\desktop\hipodromo.real\interfazusuario\caballoiu.h
+
+1576074007 c:\users\juanki\desktop\hipodromo.real\interfazusuario\interfazusuario.h
+
+1573840041 source:c:\users\juanki\desktop\hipodromo.real\entidades\caballo.c
+	<stdio.h>
+
+1579449642 source:c:\users\juanki\desktop\hipodromo.real\interfazsistema\caballosys.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoSys.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../AccesoDatos/caballoBD.h"
+
+1579522794 source:c:\users\juanki\desktop\hipodromo.real\interfazusuario\caballoiu.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<conio.h>
+	<stdbool.h>
+	"caballoIU.h"
+	"interfazUsuario.h"
+	"interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../AccesoDatos/caballoBD.h"
+	"../AccesoDatos/caballoAD.h"
+
+1576516329 source:c:\users\juanki\desktop\hipodromo.real\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"../Entidades/caballo.h"
+	"interfazGrafica.h"
+
+1579522968 source:c:\users\juanki\desktop\hipodromo.real\interfazusuario\interfazusuario.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	"interfazUsuario.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazSistema/caballoSys.h"
+	"interfazGrafica.h"
+	"caballoIU.h"
+	"../AccesoDatos/caballoBD.h"
+	<conio.h>
+
+1574090730 source:c:\users\juanki\desktop\hipodromo.real\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"InterfazUsuario/interfazGrafica.h"
+
+1574019592 source:c:\users\juanki\desktop\hipodromo.real\mainhipodromo.c
+	<stdio.h>
+	"InterfazUsuario/interfazUsuario.h"
+
+1579520638 source:c:\users\juanki\desktop\hipodromo.real\accesodatos\caballobd.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdlib.h>
+	<stdbool.h>
+	"../AccesoDatos/caballoAD.h"
+	"caballoBD.h"
+	"misqlite3.h"
+	<string.h>
+	"../InterfazUsuario/interfazGrafica.h"
+
+1579453306 source:c:\users\juanki\desktop\hipodromo.real\accesodatos\misqlite3.c
+	<stdio.h>
+	<stdlib.h>
+	"misqlite3.h"
+	"../InterfazUsuario/interfazGrafica.h"
+
+1570793188 c:\users\juanki\desktop\hipodromo.real\accesodatos\sqlite3.h
+	<stdarg.h>
+
+1579449992 c:\users\juanki\desktop\hipodromo.real\accesodatos\misqlite3.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1579449826 c:\users\juanki\desktop\hipodromo.real\accesodatos\caballobd.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1573840041 source:c:\users\juanki\desktop\frankestein\entidades\caballo.c
+	<stdio.h>
+
+1574090730 source:c:\users\juanki\desktop\frankestein\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"InterfazUsuario/interfazGrafica.h"
+
+1573634242 c:\users\juanki\desktop\frankestein\interfazusuario\interfazgrafica.h
+	<windows.h>
+
+1574019592 source:c:\users\juanki\desktop\frankestein\mainhipodromo.c
+	<stdio.h>
+	"InterfazUsuario/interfazUsuario.h"
+
+1576074007 c:\users\juanki\desktop\frankestein\interfazusuario\interfazusuario.h
+
+1576628726 source:c:\users\juanki\desktop\frankestein\accesodatos\cabalload.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../InterfazUsuario/caballoIU.h"
+	"../InterfazUsuario/interfazUsuario.h"
+	"caballoBD.h"
+	<stdlib.h>
+
+1576167190 c:\users\juanki\desktop\frankestein\entidades\caballo.h
+	<stdio.h>
+
+1576342364 c:\users\juanki\desktop\frankestein\accesodatos\cabalload.h
+	<stdbool.h>
+
+1576517191 c:\users\juanki\desktop\frankestein\interfazsistema\caballosys.h
+	<stdbool.h>
+
+1576074007 c:\users\juanki\desktop\frankestein\interfazusuario\caballoiu.h
+
+1576628699 c:\users\juanki\desktop\frankestein\accesodatos\caballobd.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1570793188 c:\users\juanki\desktop\frankestein\accesodatos\sqlite3.h
+	<stdarg.h>
+
+1576628676 source:c:\users\juanki\desktop\frankestein\accesodatos\caballobd.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdlib.h>
+	<stdbool.h>
+	"../AccesoDatos/caballoAD.h"
+	"caballoBD.h"
+	"misqlite3.h"
+	<string.h>
+	"../InterfazUsuario/interfazGrafica.h"
+
+1576250919 c:\users\juanki\desktop\frankestein\accesodatos\misqlite3.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1576625130 source:c:\users\juanki\desktop\frankestein\accesodatos\misqlite3.c
+	<stdio.h>
+	<stdlib.h>
+	"misqlite3.h"
+	"../InterfazUsuario/interfazGrafica.h"
+
+1576626200 source:c:\users\juanki\desktop\frankestein\interfazsistema\caballosys.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoSys.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../AccesoDatos/caballoBD.h"
+
+1576628368 source:c:\users\juanki\desktop\frankestein\interfazusuario\caballoiu.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<conio.h>
+	<stdbool.h>
+	"caballoIU.h"
+	"interfazUsuario.h"
+	"interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../AccesoDatos/caballoBD.h"
+
+1576516329 source:c:\users\juanki\desktop\frankestein\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"../Entidades/caballo.h"
+	"interfazGrafica.h"
+
+1576625028 source:c:\users\juanki\desktop\frankestein\interfazusuario\interfazusuario.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	"interfazUsuario.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazSistema/caballoSys.h"
+	"interfazGrafica.h"
+	"caballoIU.h"
+	"../AccesoDatos/caballoBD.h"
+	<conio.h>
+
+1579449826 c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\accesodatos\caballobd.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1570793188 c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\accesodatos\sqlite3.h
+	<stdarg.h>
+
+1579520638 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\accesodatos\caballobd.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdlib.h>
+	<stdbool.h>
+	"../AccesoDatos/caballoAD.h"
+	"caballoBD.h"
+	"misqlite3.h"
+	<string.h>
+	"../InterfazUsuario/interfazGrafica.h"
+
+1579449992 c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\accesodatos\misqlite3.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1579453306 source:c:\users\juanki\desktop\proyecto programacion\hipodromo\hipodromo\accesodatos\misqlite3.c
+	<stdio.h>
+	<stdlib.h>
+	"misqlite3.h"
+	"../InterfazUsuario/interfazGrafica.h"
+
+1579524238 source:c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\accesodatos\cabalload.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../InterfazUsuario/caballoIU.h"
+	"../InterfazUsuario/interfazUsuario.h"
+	"caballoBD.h"
+	<stdlib.h>
+
+1579291044 c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\entidades\caballo.h
+	<stdio.h>
+
+1579293590 c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\accesodatos\cabalload.h
+	<stdbool.h>
+
+1573637842 c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\interfazusuario\interfazgrafica.h
+	<windows.h>
+
+1579451918 c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\interfazsistema\caballosys.h
+	<stdbool.h>
+
+1579520656 c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\interfazusuario\caballoiu.h
+
+1576077607 c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\interfazusuario\interfazusuario.h
+
+1579453426 c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\accesodatos\caballobd.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1570796788 c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\accesodatos\sqlite3.h
+	<stdarg.h>
+
+1579524238 source:c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\accesodatos\caballobd.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdlib.h>
+	<stdbool.h>
+	"../AccesoDatos/caballoAD.h"
+	"caballoBD.h"
+	"misqlite3.h"
+	<string.h>
+	"../InterfazUsuario/interfazGrafica.h"
+
+1579453592 c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\accesodatos\misqlite3.h
+	<stdio.h>
+	<stdlib.h>
+	"sqlite3.h"
+
+1579456906 source:c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\accesodatos\misqlite3.c
+	<stdio.h>
+	<stdlib.h>
+	"misqlite3.h"
+	"../InterfazUsuario/interfazGrafica.h"
+
+1573843641 source:c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\entidades\caballo.c
+	<stdio.h>
+
+1579453242 source:c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\interfazsistema\caballosys.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<stdbool.h>
+	"caballoSys.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazUsuario/interfazGrafica.h"
+	"../AccesoDatos/caballoBD.h"
+
+1579526394 source:c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\interfazusuario\caballoiu.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	<conio.h>
+	<stdbool.h>
+	"caballoIU.h"
+	"interfazUsuario.h"
+	"interfazGrafica.h"
+	"../InterfazSistema/caballoSys.h"
+	"../AccesoDatos/caballoBD.h"
+	"../AccesoDatos/caballoAD.h"
+
+1576519929 source:c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\interfazusuario\interfazgrafica.c
+	<stdio.h>
+	<windows.h>
+	<conio.h>
+	"../Entidades/caballo.h"
+	"interfazGrafica.h"
+
+1579526568 source:c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\interfazusuario\interfazusuario.c
+	<stdio.h>
+	"../Entidades/caballo.h"
+	"interfazUsuario.h"
+	"../AccesoDatos/caballoAD.h"
+	"../InterfazSistema/caballoSys.h"
+	"interfazGrafica.h"
+	"caballoIU.h"
+	"../AccesoDatos/caballoBD.h"
+	<conio.h>
+
+1574094330 source:c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"InterfazUsuario/interfazGrafica.h"
+
+1574023192 source:c:\users\juanki\desktop\uni\1-1cuatri\proyecto programacion\hipodromo\hipodromo\mainhipodromo.c
+	<stdio.h>
+	"InterfazUsuario/interfazUsuario.h"
+
